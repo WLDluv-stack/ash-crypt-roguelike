@@ -7,7 +7,7 @@ Explora diez niveles procedurales, derrota enemigos cada vez mas peligrosos, con
 ## Descargar
 
 ```bash
-git clone https://github.com/TU_USUARIO/ash-crypt-roguelike.git
+git clone https://github.com/TU_USUARIO/ash-crypt-roguelike
 cd ash-crypt-roguelike
 python3 app.py
 ```
