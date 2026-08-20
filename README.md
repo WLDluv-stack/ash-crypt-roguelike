@@ -2,6 +2,8 @@
 
 **Ashen Crypt** es un roguelike ASCII por turnos para la terminal, disponible en espanol e ingles.
 
+> Explora una cripta procedural, derrota enemigos, consigue objetos y sobrevive diez niveles en una aventura de terminal sin dependencias externas.
+
 Explora diez niveles procedurales, derrota enemigos cada vez mas peligrosos, consigue objetos y vence a los dos jefes de la cripta. No necesita paquetes externos: solo Python 3.
 
 ## Descargar
@@ -13,6 +15,19 @@ python3 app.py
 ```
 
 Tambien puedes descargar el proyecto como ZIP desde el boton **Code > Download ZIP** de GitHub y ejecutar `python3 app.py` dentro de la carpeta.
+
+### Windows
+
+1. Instala [Python 3](https://www.python.org/downloads/windows/) y activa **Add Python to PATH** durante la instalacion.
+2. Descarga el ZIP o clona el repositorio:
+
+```powershell
+git clone https://github.com/WLDluv-stack/ash-crypt-roguelike.git
+cd ash-crypt-roguelike
+python app.py
+```
+
+Tambien puedes hacer doble clic en `run_game.bat`. El juego usa la consola de Windows, acepta las flechas directamente y no requiere instalar paquetes.
 
 ## Jugar
 
