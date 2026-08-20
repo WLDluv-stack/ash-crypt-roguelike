@@ -6,7 +6,11 @@
 
 Explora diez niveles procedurales, derrota enemigos cada vez mas peligrosos, consigue objetos y vence a los dos jefes de la cripta. No necesita paquetes externos: solo Python 3.
 
-## Descargar
+## Instalacion
+
+### Linux y macOS
+
+Necesitas [Python 3](https://www.python.org/downloads/). Abre una terminal y ejecuta:
 
 ```bash
 git clone https://github.com/WLDluv-stack/ash-crypt-roguelike.git
@@ -14,12 +18,11 @@ cd ash-crypt-roguelike
 python3 app.py
 ```
 
-Tambien puedes descargar el proyecto como ZIP desde el boton **Code > Download ZIP** de GitHub y ejecutar `python3 app.py` dentro de la carpeta.
+Tambien puedes descargar el proyecto como ZIP desde **Code > Download ZIP** y ejecutar `python3 app.py` dentro de la carpeta.
 
 ### Windows
 
-1. Instala [Python 3](https://www.python.org/downloads/windows/) y activa **Add Python to PATH** durante la instalacion.
-2. Descarga el ZIP o clona el repositorio:
+Instala [Python 3 para Windows](https://www.python.org/downloads/windows/) y activa **Add Python to PATH** durante la instalacion. En PowerShell o CMD ejecuta:
 
 ```powershell
 git clone https://github.com/WLDluv-stack/ash-crypt-roguelike.git
@@ -28,6 +31,8 @@ python app.py
 ```
 
 Tambien puedes hacer doble clic en `run_game.bat`. El juego usa la consola de Windows, acepta las flechas directamente y no requiere instalar paquetes.
+
+Tambien puedes descargar el ZIP desde **Code > Download ZIP**, extraerlo y ejecutar `run_game.bat`.
 
 ## Jugar
 
