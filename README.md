@@ -4,6 +4,10 @@
 
 > Explora una cripta procedural, derrota enemigos, consigue objetos y sobrevive diez niveles en una aventura de terminal sin dependencias externas.
 
+## Vista previa
+
+![Ashen Crypt en la terminal](screenshot.png)
+
 Explora diez niveles procedurales, derrota enemigos cada vez mas peligrosos, consigue objetos y vence a los dos jefes de la cripta. No necesita paquetes externos: solo Python 3.
 
 ## Instalacion
